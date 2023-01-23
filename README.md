@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
-
+![](https://github.com/nct1906/web102_prework/blob/main/Demo.gif)
 <img src='https://github.com/nct1906/web102_prework/blob/main/Demo.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
